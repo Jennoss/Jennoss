@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **issam.azarkane@gmail.com**
 
